@@ -1,11 +1,11 @@
 export default {
   /**************
-  method: king
+  method: god
   params: packet
   describe: The global wall feature that installs with every agent
   ***************/
-  async king(packet) {
-    const king = await this.methods.sign('king', 'default', packet);
-    return king;
+  async god(packet) {
+    const god = await this.methods.sign('god', 'default', packet);
+    return god;
   },
 };
