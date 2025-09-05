@@ -1,0 +1,122 @@
+{
+  "id": "622797969636327402",
+  "name": "@indra.ai/deva.god",
+  "version": "0.0.0",
+  "author": {
+    "name": "Quinn A Michaels",
+    "email": "quinn@indra.ai",
+    "url": "https://indra.ai/"
+  },
+  "license": "MIT",
+  "copyright": "(c)2025 Quinn A Michaels; All rights reserved.",
+  "description": "The God Deva.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraai/deva.god.git"
+  },
+  "keywords": [
+    "God",
+    "Deva",
+    "Indra.ai",
+    "Deva.space",
+    "Deva.cloud",
+    "Deva.world"
+  ],
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "https://paypal.me/rahulaclub"
+    },
+    {
+      "type": "patreon",
+      "url": "https://patreon.com/rahulaclub"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/indraai/deva.king/issues"
+  },
+  "homepage": "https://indra.ai",
+  "dependencies": {
+    "@indra.ai/deva": "^1.5.54"
+  },
+  "data": {
+    "agent": {
+      "id": "286759238652492427",
+      "key": "god",
+      "prompt": {
+        "emoji": "💫",
+        "text": "God",
+        "colors": {
+          "label": {
+            "R": 0,
+            "G": 150,
+            "B": 255
+          },
+          "text": {
+            "R": 101,
+            "G": 192,
+            "B": 255
+          }
+        }
+      },
+      "profile": {
+        "name": "God Deva",
+        "hashtag": "#God",
+        "title": "God Deva",
+        "subtitle": "God Deva build on the philosophy the Vedas.",
+        "describe": "The God Deva",
+        "post": "The God Deva.",
+        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,GodDeva",
+        "pronouns": "He, Him, His",
+        "gender": "DEVA",
+        "voice": "ash",
+        "style": "A God painter and modern style.",
+        "system": "Indra.ai.god",
+        "layout": "default",
+        "emoji": "/assets/devas/god/emoji.png",
+        "avatar": "/assets/devas/god/avatar.png",
+        "image": "/assets/devas/god/image.png",
+        "background": "/assets/devas/god/background.png",
+        "creator": "Quinn A Michaels",
+        "owner": "Quinn A Michaels",
+        "copyright": "©2025 Quinn A Michaels. All rights reserved.",
+        "created": "Friday, September 5, 2025 - 11:26:18 AM",
+        "modified": "Friday, September 5, 2025 - 11:26:18 AM"
+      }
+    },
+    "vars": {
+      "messages": {
+        "init": "🟠 INIT",
+        "start": "🔵 START",
+        "enter": "🟢 ENTER",
+        "stop": "🔴 STOP",
+        "exit": "🟡 EXIT",
+        "done": "🟣 DONE",
+        "error": "💣 ERROR!",
+        "ready": "⭐️ Ready!"
+      },
+      "ask": {
+        "history": []
+      },
+      "art": {
+        "history": []
+      },
+      "context": {
+        "uid": "God is creating a uid",
+        "status": "God is viewing the status",
+        "help": "God is viewing the help",
+        "artist": "God creating",
+        "live": "God livechat",
+        "ask": "God asking",
+        "reply": "God reply",
+        "comment": "God comment"
+      }
+    },
+    "laws": []
+  }
+}
