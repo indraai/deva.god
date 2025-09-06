@@ -1,5 +1,5 @@
 // Copyright (c)2025 Quinn Michaels. All Rights reserved.
-// Kshatriya Deva
+// God Deva
 
 import Deva from '@indra.ai/deva';
 import pkg from './package.json' with {type:'json'};
@@ -24,7 +24,7 @@ const info = {
   copyright: pkg.copyright
 };
 
-const KSHATRIYA = new Deva({
+const GOD = new Deva({
   info,
   agent,
   vars,
@@ -56,4 +56,4 @@ const KSHATRIYA = new Deva({
     return reject(err);
   },
 });
-export default KSHATRIYA
+export default GOD
