@@ -2,13 +2,23 @@
   "id": "622797969636327402",
   "name": "@indra.ai/deva.god",
   "version": "0.0.5",
+  "license": "VLA:36772283336991750258 LICENSE.md",
   "author": {
     "name": "Quinn A Michaels",
     "email": "quinn@indra.ai",
     "url": "https://indra.ai/"
   },
-  "license": "MIT",
-  "copyright": "(c)2025 Quinn A Michaels; All rights reserved.",
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "https://paypal.me/rahulaclub"
+    },
+    {
+      "type": "patreon",
+      "url": "https://patreon.com/rahulaclub"
+    }
+  ],
+  "copyright": "(c)2025, Quinn A Michaels; All Rights Reserved.",
   "description": "The God Deva.",
   "main": "index.js",
   "type": "module",
@@ -27,16 +37,6 @@
     "Deva.space",
     "Deva.cloud",
     "Deva.world"
-  ],
-  "funding": [
-    {
-      "type": "paypal",
-      "url": "https://paypal.me/rahulaclub"
-    },
-    {
-      "type": "patreon",
-      "url": "https://patreon.com/rahulaclub"
-    }
   ],
   "bugs": {
     "url": "https://github.com/indraai/deva.king/issues"
